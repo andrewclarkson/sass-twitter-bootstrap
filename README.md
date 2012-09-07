@@ -1,12 +1,13 @@
 This is Not the Repo You're Looking For
 ---------------------------------------
 
-This is a **Bare Bones** fork of the Twitter Bootstrap styles (made by the authors below) ported to Sass (by the "Sass Conversion" developers below)
+This is a **Bare Bones** fork of the Twitter Bootstrap styles (made by the authors below) ported to Sass (by the developers below)
 
-Up until now I've cloned the entire repo evertime I wanted some Sweet Bootstrap Sass in my project.
-Now I clone just the Sass.
+Up until now I've cloned the entire repo everytime I wanted some sweet Twitter Bootstrap scss in my project.
 
-Tiny Repo, to fix a tiny problem.
+Now I clone *just the Sass*.
+
+Tiny repo, to fix a tiny quibble.
 
 Check out the *Real* (Sass Twitter Bootstrap)[https://github.com/jlong/sass-twitter-bootstrap]
 
